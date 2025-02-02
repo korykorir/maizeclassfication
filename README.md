@@ -60,7 +60,7 @@ You can install the required libraries using the following command:
 1. Clone this repo
 
 
-`git clone https://github.com/your-username/maize-classification.git`
+`git clone https://github.com/korykorir/maizeclassfication.git`
 
 2. Install the required dependencies
 
